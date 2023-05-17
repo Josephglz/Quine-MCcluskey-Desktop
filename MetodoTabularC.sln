@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoTabularC", "MetodoTabularC.csproj", "{BAFDA444-A911-43C3-AB71-17E2AB49E42B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFDA444-A911-43C3-AB71-17E2AB49E42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFDA444-A911-43C3-AB71-17E2AB49E42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFDA444-A911-43C3-AB71-17E2AB49E42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFDA444-A911-43C3-AB71-17E2AB49E42B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F303166-C962-4BD2-8B9C-F729652520A0}
+	EndGlobalSection
+EndGlobal
